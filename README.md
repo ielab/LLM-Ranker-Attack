@@ -8,6 +8,12 @@ This project evaluates the robustness of Large Language Model (LLM) based re-ran
 
 ---
 
+## News
+
+- **[2026]** Our paper has been accepted to the **SIGIR 2026 Reproducibility Track**! Read the preprint on [arXiv](https://arxiv.org/pdf/2602.16752).
+
+---
+
 ## Installation
 
 Install required dependencies:
@@ -241,25 +247,25 @@ Our detailed experiments can be found in the `Results/`.
 └── README.md
 ```
 
-<!-- ---
+---
 
 ## Citation
 
 If you use this code, please cite our paper:
 
 ```bibtex
-@article{yourpaper2024,
-  title={Your Paper Title},
-  author={Your Name},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2024}
+@article{yin2026vulnerability,
+  title={The Vulnerability of LLM Rankers to Prompt Injection Attacks},
+  author={Yin, Yu and Wang, Shuai and Koopman, Bevan and Zuccon, Guido},
+  journal={arXiv preprint arXiv:2602.16752},
+  year={2026}
 }
 ```
 
---- -->
+---
 
 ## License
 
-This project is released under the MIT License.
+This project is released under the [MIT License](./LICENSE).
 
 
